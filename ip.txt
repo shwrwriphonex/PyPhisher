@@ -1,0 +1,20 @@
+IP                   : 109.107.231.169
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Amman, Hashemite Kingdom of Jordan, Asia
+GeoLocation(lat, lon): 31.9772088, 35.8373789
+Currency             : Jordanian Dinar
+
+IP                   : 109.107.231.169
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Amman, Hashemite Kingdom of Jordan, Asia
+GeoLocation(lat, lon): 31.9772088, 35.8373789
+Currency             : Jordanian Dinar
+
